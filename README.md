@@ -1,1 +1,1 @@
-# ProgectCalc
+# ProgectCalc  - проект направлен на изучение языка программирования JavaScript
